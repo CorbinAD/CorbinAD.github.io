@@ -1,0 +1,31 @@
+.pa1 {
+color:red; 
+text-align:center; 
+border:5px solid blue;
+}
+
+#pa2 {
+  background-color:black;
+  color:white;
+  text-align:left;
+  border:6px solid red;
+  border-radius:10px;
+}
+
+.pa3 {
+  color:#ffcc00;
+}
+
+a { 
+  color:blue;
+  text-decoration:none;
+}
+a:visited{
+  color:green;
+  text-decoration:none;
+  
+}
+a:hover{
+  color:orange;
+  text-decoration:none;
+}
