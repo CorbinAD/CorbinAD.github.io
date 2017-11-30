@@ -7,6 +7,7 @@
     border:1px solid black;
     border-spacing:0px;
     background-color:grey;
+    font-family: 'Monda', sans-serif;
     }
 .bodyoutside {
   background-color:grey;
@@ -23,7 +24,7 @@
     background-color: white;
 }
 
-.ahsesportsclub {
+#ahs {
   font-family: 'Russo One', sans-serif;
 }
 
