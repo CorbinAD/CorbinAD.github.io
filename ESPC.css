@@ -1,23 +1,104 @@
 /*heading table*/
 
-#tableheader {
-    text-align: center;
-    
-    
-    
-    
-}
+#fulltable {
+    text-align: left;
+    width:98% ;
+    table-layout:fixed;
+    border:1px solid black;
+    border-spacing:0px;
+    background-color:grey;
+    }
 .bodyoutside {
   background-color:grey;
   
 }
 
 .bodyinside {
-    height:auto;
-    width:auto ;
+    height:90%;
+    width:90%;
     margin:20px ;
     border:2px solid black;
     padding:20px;
     content:300px 200px;
     background-color: white;
 }
+
+#homebutton {
+    background-color: grey; 
+    border: none;
+    color: white;
+    padding:0px 10px;
+    text-align: left;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    
+}
+
+#joinbutton {
+  background-color: grey;
+    border: none;
+    color: white;
+    padding: 15px 40px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+#calenderbutton {
+  background-color: grey; 
+    border: none;
+    color: white;
+    padding: 15px 40px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+#informationbutton { background-color: grey; 
+    border: none;
+    color: white;
+    padding: 15px 40px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+#contactusbutton {
+   background-color: grey;
+    border: none;
+    color: white;
+    padding: 15px 40px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+a:link {
+    color: white;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:visited {
+    color: white;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:hover {
+    color: gold;
+    background-color: transparent;
+    text-decoration: underline;
+}
+
+a:active {
+    color:#ccad00;
+    background-color: transparent;
+    text-decoration: underline;
+}
+
