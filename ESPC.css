@@ -76,6 +76,18 @@
     cursor: pointer;
 }
 
+#gamesbutton {
+    background-color:blue;
+    border:none;
+    color:white;
+    padding:15px 9%;
+    text-align:center;
+    text-decoration:none;
+    display:inline-block;
+    font-size:16px;
+    cursor:pointer;
+}
+
 #contactusbutton {
    background-color: blue;
     border: none;
