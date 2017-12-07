@@ -1,6 +1,6 @@
 /*heading table*/
 
-#fulltable {
+.fulltable {
     text-align: left;
     width:98% ;
     table-layout:fixed;
@@ -24,11 +24,11 @@
     background-color: white;
 }
 
-#ahs {
+.ahs {
   font-family: 'Russo One', sans-serif;
 }
 
-#homebutton {
+.homebutton {
     background-color: blue; 
     border: none;
     color: white;
@@ -40,7 +40,7 @@
     cursor: pointer;
 }
 
-#joinbutton {
+.joinbutton {
   background-color: blue;
     border: none;
     color: white;
@@ -52,7 +52,7 @@
     cursor: pointer;
 }
 
-#calenderbutton {
+.calenderbutton {
   background-color: blue; 
     border: none;
     color: white;
@@ -64,7 +64,7 @@
     cursor: pointer;
 }
 
-#informationbutton { 
+.informationbutton { 
     background-color: blue; 
     border: none;
     color: white;
@@ -76,7 +76,7 @@
     cursor: pointer;
 }
 
-#gamesbutton {
+.gamesbutton {
     background-color:blue;
     border:none;
     color:white;
@@ -88,7 +88,7 @@
     cursor:pointer;
 }
 
-#contactusbutton {
+.contactusbutton {
    background-color: blue;
     border: none;
     color: white;
