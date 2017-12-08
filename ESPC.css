@@ -51,6 +51,7 @@
     display: inline-block;
     font-size: 16px;
     cursor: pointer;
+    font-family: 'Monda', sans-serif;
 }
 
 .calenderbutton {
@@ -63,6 +64,7 @@
     display: inline-block;
     font-size: 16px;
     cursor: pointer;
+    font-family: 'Monda', sans-serif;
 }
 
 .informationbutton { 
@@ -75,6 +77,7 @@
     display: inline-block;
     font-size: 16px;
     cursor: pointer;
+    font-family: 'Monda', sans-serif;
 }
 
 .gamesbutton {
@@ -87,6 +90,7 @@
     display:inline-block;
     font-size:16px;
     cursor:pointer;
+    font-family: 'Monda', sans-serif;
 }
 
 .contactusbutton {
@@ -99,6 +103,7 @@
     display: inline-block;
     font-size: 16px;
     cursor: pointer;
+    font-family: 'Monda', sans-serif;
 }
 
 a:link {
