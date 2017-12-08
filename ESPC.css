@@ -1,6 +1,7 @@
 /*heading table*/
 
 .fulltable {
+    align:center;
     text-align: left;
     width:98% ;
     table-layout:fixed;
