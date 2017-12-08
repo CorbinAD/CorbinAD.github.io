@@ -42,7 +42,7 @@
 }
 
 .joinbutton {
-  background-color: blue;
+  background-color: #FF8B49;
     border: none;
     color: white;
     padding: 15px 7%;
@@ -55,7 +55,7 @@
 }
 
 .calenderbutton {
-  background-color: blue; 
+  background-color: #FF8B49; 
     border: none;
     color: white;
     padding: 15px 7%;
@@ -68,7 +68,7 @@
 }
 
 .informationbutton { 
-   background-color: blue; 
+   background-color: #FF8B49; 
     border: none;
     color: white;
     padding: 15px 7%;
@@ -81,7 +81,7 @@
 }
 
 .gamesbutton {
-   background-color:blue;
+   background-color:#FF8B49;
     border:none;
     color:white;
     padding:15px 7%;
@@ -94,7 +94,7 @@
 }
 
 .contactusbutton {
-   background-color: blue;
+   background-color: #FF8B49;
     border: none;
     color: white;
     padding: 15px 7%;
